@@ -36,7 +36,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>jenkin</finalName>
+		<finalName>jenkins</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
